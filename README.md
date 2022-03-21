@@ -38,7 +38,7 @@
 
 ![Dawn0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawn0820&show_icons=true&theme=github_dark)       
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lazyson)](https://solved.ac/lazyson
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lazyson)](https://solved.ac/lazson/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn0820)](https://github.com/Dawn0820/github-readme-stats)
 
