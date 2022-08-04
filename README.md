@@ -40,10 +40,11 @@
 
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawn0820%2F&count_bg=%235E7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 ![Dawn0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawn0820&show_icons=true&theme=github_dark)       
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn0820)](https://github.com/Dawn0820/github-readme-stats)
+
 
 </div>
 
